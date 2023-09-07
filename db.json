@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "11653",
+      "name": "James Dorian",
+      "age": 22,
+      "registration_date": "2016-01-30"
+    },
+    {
+      "id": "45679",
+      "name": "Mary Johnson",
+      "age": 31,
+      "registration_date": "2017-09-27"
+    },
+    {
+      "id": "12453",
+      "name": "James Brown",
+      "age": 33,
+      "registration_date": "2018-11-01"
+    },
+    {
+      "id": "56913",
+      "name": "Jack Smith",
+      "age": 25,
+      "registration_date": "2016-11-22"
+    },
+    {
+      "id": "49732",
+      "name": "Jennifer Davis",
+      "age": 22,
+      "registration_date": "2018-08-31"
+    },
+    {
+      "id": "55794",
+      "name": "Robert Wilson",
+      "age": 19,
+      "registration_date": "2020-06-20"
+    },
+    {
+      "id": "14536",
+      "name": "Patricia Jones",
+      "age": 45,
+      "registration_date": "2021-07-28"
+    },
+    {
+      "id": "85629",
+      "name": "William Anderson",
+      "age": 57,
+      "registration_date": "2014-02-19"
+    },
+    {
+      "id": "33354",
+      "name": "Linda White",
+      "age": 58,
+      "registration_date": "2019-04-03"
+    },
+    {
+      "id": "44692",
+      "name": "Michael Taylor",
+      "age": 66,
+      "registration_date": "2015-12-07"
+    },
+    {
+      "id": "14253",
+      "name": "Elizabeth Martinez",
+      "age": 28,
+      "registration_date": "2021-01-18"
+    },
+    {
+      "id": "79856",
+      "name": "David Miller",
+      "age": 37,
+      "registration_date": "2018-05-26"
+    },
+    {
+      "id": "53261",
+      "name": "Susan Wilson",
+      "age": 39,
+      "registration_date": "2018-09-24"
+    },
+    {
+      "id": "44689",
+      "name": "Charles Lee",
+      "age": 27,
+      "registration_date": "2017-10-14"
+    },
+    {
+      "id": "22883",
+      "name": "Karen Garcia",
+      "age": 53,
+      "registration_date": "2020-03-11"
+    },
+    {
+      "id": "76599",
+      "name": "Joseph Rodriguez",
+      "age": 50,
+      "registration_date": "2022-03-10"
+    },
+    {
+      "id": "45326",
+      "name": "Sarah Harris",
+      "age": 17,
+      "registration_date": "2020-06-07"
+    },
+    {
+      "id": "44295",
+      "name": "Richard Clark",
+      "age": 26,
+      "registration_date": "2015-07-07"
+    },
+    {
+      "id": "12596",
+      "name": "Nancy Lewis",
+      "age": 36,
+      "registration_date": "2014-11-25"
+    },
+    {
+      "id": "10625",
+      "name": "Lisa Turner",
+      "age": 46,
+      "registration_date": "2019-08-17"
+    }
+  ]
+}
